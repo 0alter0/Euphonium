@@ -23,6 +23,6 @@ Don't worry, I'm gonna keep working on it.
 - Fix death bugs
 - Grab piece/object ID and use for future use (so you get an ID of like a key, come back, you then have Euphonium to just go get it)
 - Moving Platform Detection
-- Import/Export Paths (your friend has the perfect line for an obby, but you're too lazy to have Euphonium fully calculate it, so he just sends you it instead0)
+- Import/Export Paths (your friend has the perfect line for an obby, but you're too lazy to have Euphonium fully calculate it, so he just sends you it instead)
 - TP Detection
 - Keyboard Shortcuts
