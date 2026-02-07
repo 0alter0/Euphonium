@@ -11,6 +11,11 @@ From my current testing, it struggles with elevated platforms (so like ramps), b
 
 Don't worry, I'm gonna keep working on it.
 
+# Current Status
+Fully revamping it. The pathfinding that Roblox uses actually sucks, so I'm making my own, it needs a LOT of work, so it's gonna be awhile.
+
+But by the end, it's gonna be way better because I can make it do whatever I want, which is also why Baritone doesn't use Minecraft's built in A*.
+
 # Planned Features
 
 - Better ladder support
